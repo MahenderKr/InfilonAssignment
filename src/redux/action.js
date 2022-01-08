@@ -10,19 +10,7 @@ export const getData=()=>{
   }
 }
 
-// export const fetchData = () => {
-//   return (dispatch) => {
-    
-//     axios
-//       .get('https://jsonplaceholder.typicode.com/users')
-//       .then(response => {
-      
-//         const users = response.data
-//         dispatch(getData(users))
-//       })
-      
-//   }
-// }
+
 
 
 async  function gettingData(dispatch){

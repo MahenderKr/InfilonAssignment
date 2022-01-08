@@ -25,16 +25,10 @@
   margin-bottom: 0.15rem;
 }
 
-/* .users a {
-  color: darkgreen;
-  text-transform: capitalize;
-} */
-
 .url a {
   text-decoration: none;
 }
 .url {
-  /* border: darkgoldenrod 2px solid; */
   border-radius: 5rem;
   background-color: darkgoldenrod;
 }

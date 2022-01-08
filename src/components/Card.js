@@ -15,7 +15,6 @@ function Card() {
      dispatch(getData())
     
   },[])
- console.log(content)
 
     return content.loading ? (
     <h2>Loading</h2>
